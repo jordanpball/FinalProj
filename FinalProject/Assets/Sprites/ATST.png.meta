@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: c283e1f45447cfe46bb105381bbfdfc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4766734091551760843
+    second: ATST_16
+  - first:
+      213: -6644476129781892797
+    second: ATST_17
+  - first:
+      213: -2766909822417971110
+    second: ATST_18
+  - first:
+      213: -2475844049612753175
+    second: ATST_19
+  - first:
+      213: -1656900011990202274
+    second: ATST_20
+  - first:
+      213: 1149609592466439375
+    second: ATST_21
+  - first:
+      213: -7901783400794798692
+    second: ATST_22
+  - first:
+      213: -3741473001109589580
+    second: ATST_23
+  - first:
+      213: 4556386284532327941
+    second: ATST_56
+  - first:
+      213: 2511293563438573950
+    second: ATST_57
+  - first:
+      213: 7316018438037397285
+    second: ATST_58
+  - first:
+      213: 4432840125495747374
+    second: ATST_59
+  - first:
+      213: 1969471383122804765
+    second: ATST_60
+  - first:
+      213: -6874245190014317410
+    second: ATST_61
+  - first:
+      213: -6090104973101081125
+    second: ATST_62
+  - first:
+      213: 1890367865767119604
+    second: ATST_63
+  - first:
+      213: -3484352636953375185
+    second: ATST_96
+  - first:
+      213: 6095210595802024901
+    second: ATST_97
+  - first:
+      213: -3936880143633373126
+    second: ATST_98
+  - first:
+      213: -3784245076338051090
+    second: ATST_100
+  - first:
+      213: 6875881613155088823
+    second: ATST_101
+  - first:
+      213: 121379236953743653
+    second: ATST_102
+  - first:
+      213: -1091555938882173814
+    second: ATST_103
+  - first:
+      213: 8260799285282263687
+    second: ATST_104
+  - first:
+      213: -803713058940191049
+    second: ATST_137
+  - first:
+      213: -6444539313689026401
+    second: ATST_138
+  - first:
+      213: -8960950181508735835
+    second: ATST_139
+  - first:
+      213: -3275302496358979010
+    second: ATST_140
+  - first:
+      213: -2496961919393930621
+    second: ATST_141
+  - first:
+      213: 2439454122579267688
+    second: ATST_142
+  - first:
+      213: 4869901372500179522
+    second: ATST_143
+  - first:
+      213: 2760526844558463781
+    second: ATST_144
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ATST_16
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1068
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1efa9a667d62240800000000000000
+      internalID: 4766734091551760843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_17
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1068
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b9c5f9241ac3a0800000000000000
+      internalID: -6644476129781892797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_18
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1068
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58dc3d1d26f999d0800000000000000
+      internalID: -2766909822417971110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_19
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1068
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6319754f804add0800000000000000
+      internalID: -2475844049612753175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_20
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1068
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58cbfcb7328109e0800000000000000
+      internalID: -1656900011990202274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 958
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf75d55db34ff00800000000000000
+      internalID: 1149609592466439375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 958
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c954c87ccd9375290800000000000000
+      internalID: -7901783400794798692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 958
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1f520f02e931cc0800000000000000
+      internalID: -3741473001109589580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_56
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 848
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506e20d5f298b3f30800000000000000
+      internalID: 4556386284532327941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_57
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 852
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e792b77c038e9d220800000000000000
+      internalID: 2511293563438573950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_58
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 857
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f5d69e108b78560800000000000000
+      internalID: 7316018438037397285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_59
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 853
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a542ab9c948d30800000000000000
+      internalID: 4432840125495747374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 739
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10055ac9c7f45b10800000000000000
+      internalID: 1969471383122804765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 738
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4246cb66c990a0800000000000000
+      internalID: -6874245190014317410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 744
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd58713bc99b7ba0800000000000000
+      internalID: -6090104973101081125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 741
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faccddee8feb3a10800000000000000
+      internalID: 1890367865767119604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_96
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 629
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec232dcb715afc0800000000000000
+      internalID: -3484352636953375185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_97
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 631
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb0af93eb9869450800000000000000
+      internalID: 6095210595802024901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_98
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 632
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a17b2e546d59c0800000000000000
+      internalID: -3936880143633373126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_100
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 632
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee779d12729ab7bc0800000000000000
+      internalID: -3784245076338051090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_101
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 525
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9bfbda5e90c6f50800000000000000
+      internalID: 6875881613155088823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_102
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 524
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5216cbdd5c93fa100800000000000000
+      internalID: 121379236953743653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_103
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 522
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84c57a28a30ad0f0800000000000000
+      internalID: -1091555938882173814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_104
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 519
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782dc00be2144a270800000000000000
+      internalID: 8260799285282263687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_137
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 414
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef68c2b33a8d4f0800000000000000
+      internalID: -803713058940191049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_138
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 401
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a68a83a56096a0800000000000000
+      internalID: -6444539313689026401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_139
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 394
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac133d794f44a380800000000000000
+      internalID: -8960950181508735835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_140
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 273
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aa29c9bb9cb82d0800000000000000
+      internalID: -3275302496358979010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_141
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 284
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e8d02d52095dd0800000000000000
+      internalID: -2496961919393930621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_142
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 327
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8601336899eaad120800000000000000
+      internalID: 2439454122579267688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_143
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 318
+        width: 102
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a7f071f7d559340800000000000000
+      internalID: 4869901372500179522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATST_144
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 325
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52356da0a8c5f4620800000000000000
+      internalID: 2760526844558463781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
