@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 2876416386232112648}
   - component: {fileID: 2876416386232112649}
   - component: {fileID: 2876416386232112650}
+  - component: {fileID: 1380917049}
+  - component: {fileID: 1380917053}
   m_Layer: 0
   m_Name: BlasterShot
   m_TagString: Untagged
@@ -103,3 +105,31 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1380917049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2876416386232112651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22a17da40c443b5469bea28e3eb64d19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!70 &1380917053
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2876416386232112651}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.3, y: 0.15}
+  m_Direction: 1

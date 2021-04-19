@@ -4,15 +4,10 @@ using UnityEngine;
 
 public class Stormtrooper : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] int damage = 5;
+    
+    public int GetDamage()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        return damage;
     }
 }

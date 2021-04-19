@@ -26,6 +26,7 @@ public class EnemySpawner : MonoBehaviour
 
     IEnumerator SpawnCoroutine()
     {
+        Debug.Log("Spawn Started");
         while (doSpawn)
         {
             yield return new WaitForSeconds(Random.Range(minDelayInSec, maxDelayInSec));
@@ -51,6 +52,5 @@ public class EnemySpawner : MonoBehaviour
         var yVal = Random.Range(yMin, yMax);
         var position = new Vector3(transform.position.x, yVal, transform.position.z);
         Attacker newAttacker = Instantiate(attacker, position, transform.rotation);
-        newAttacker.transform.parent = transform;
     }
 }
