@@ -47,7 +47,7 @@ MonoBehaviour:
   - {fileID: 6641292309226043364, guid: 25f6db19672632f468c73ef4983a0f50, type: 3}
   - {fileID: 7361691965212715310, guid: 889100e2611662842854582b1ace2456, type: 3}
   - {fileID: 5351737658398312544, guid: 9df276e4f371aa0438f290fbb845773c, type: 3}
-  minDelayInSec: 0
-  maxDelayInSec: 0
+  minDelayInSec: 1
+  maxDelayInSec: 7
   topPadding: 1.8
   botPadding: 0.5

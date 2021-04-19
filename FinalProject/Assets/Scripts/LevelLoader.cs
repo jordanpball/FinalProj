@@ -23,12 +23,12 @@ public class LevelLoader : MonoBehaviour
 
     public void LoadWinScene()
     {
-        SceneManager.LoadScene("WinScene");
+        SceneManager.LoadScene("WinScreen");
     }
 
     public void LoadLoseScreen()
     {
-        SceneManager.LoadScene("LoseScene");
+        SceneManager.LoadScene("LoseScreen");
     }
 
     public void LoadInstructionSplash()

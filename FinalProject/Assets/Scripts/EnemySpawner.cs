@@ -6,7 +6,7 @@ public class EnemySpawner : MonoBehaviour
 {
     [SerializeField] Attacker[] attackerArray;
     [SerializeField] int minDelayInSec = 1;
-    [SerializeField] int maxDelayInSec = 5;
+    [SerializeField] int maxDelayInSec = 7;
 
     [SerializeField] float topPadding = 1.8f;
     [SerializeField] float botPadding = 0.5f;
@@ -52,5 +52,14 @@ public class EnemySpawner : MonoBehaviour
         var yVal = Random.Range(yMin, yMax);
         var position = new Vector3(transform.position.x, yVal, transform.position.z);
         Attacker newAttacker = Instantiate(attacker, position, transform.rotation);
+    }
+
+    public void SetMinDelay(int val)
+    {
+        minDelayInSec = val;
+    }
+    public void SetMaxDelay(int val)
+    {
+        maxDelayInSec = val;
     }
 }

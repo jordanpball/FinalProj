@@ -185,7 +185,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 147166734}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.5, y: 0, z: 0}
+  m_LocalPosition: {x: -11.75, y: 0, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -370,28 +370,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 210297269, guid: 5e4c7ba390223cc49a11038e0a3c5da1, type: 3}
-      propertyPath: m_Value
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 534314122, guid: 5e4c7ba390223cc49a11038e0a3c5da1, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 534314122, guid: 5e4c7ba390223cc49a11038e0a3c5da1, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 685534818, guid: 5e4c7ba390223cc49a11038e0a3c5da1, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 685534818, guid: 5e4c7ba390223cc49a11038e0a3c5da1, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 685534818, guid: 5e4c7ba390223cc49a11038e0a3c5da1, type: 3}
-      propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1065527927972026675, guid: 5e4c7ba390223cc49a11038e0a3c5da1,
@@ -504,11 +488,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 3154763022071513908, guid: 5e4c7ba390223cc49a11038e0a3c5da1,
-        type: 3}
-      propertyPath: levelTime
-      value: 120
-      objectReference: {fileID: 0}
     - target: {fileID: 4440669270855545196, guid: 5e4c7ba390223cc49a11038e0a3c5da1,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -523,6 +502,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchorMin.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6311732072603361801, guid: 5e4c7ba390223cc49a11038e0a3c5da1,
+        type: 3}
+      propertyPath: m_Value
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 6311732072603361801, guid: 5e4c7ba390223cc49a11038e0a3c5da1,
+        type: 3}
+      propertyPath: m_MaxValue
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 9199536790371856747, guid: 5e4c7ba390223cc49a11038e0a3c5da1,
         type: 3}
@@ -978,16 +967,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 7705949328928421674, guid: 44d6fc4c67c757b48badc18f1357dbdd,
-        type: 3}
-      propertyPath: maxDelayInSec
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 7705949328928421674, guid: 44d6fc4c67c757b48badc18f1357dbdd,
-        type: 3}
-      propertyPath: minDelayInSec
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7705949328928421676, guid: 44d6fc4c67c757b48badc18f1357dbdd,
         type: 3}
       propertyPath: m_Name
